@@ -547,6 +547,7 @@ width: 50%;
 
 .steps__description {
     padding: 32px 0;
+    padding-left: 64px;
 }
 
 .step {
